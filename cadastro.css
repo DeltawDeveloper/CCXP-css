@@ -250,7 +250,8 @@ body {
       background-repeat: no-repeat;
       width: calc( 0.7 * 690px);
       height: calc(0.7 * 710px);
-      background-size: contain; } }
+      background-size: contain; }
+     }
   
   @media (min-width: 1400px) {
     .fox-bg {
