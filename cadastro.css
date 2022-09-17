@@ -256,7 +256,7 @@ body {
   @media (min-width: 1400px) {
     .fox-bg {
       position: absolute;
-      background-image: url("media/raposa-big.png");
+      background-image: url("media/tech-dino.png");
       background-position-y: top;
       background-position-x: right;
       top: 60px;
