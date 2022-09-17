@@ -245,8 +245,8 @@ body {
       background-image: url("media/tech-dino.png");
       background-position-y: top;
       background-position-x: left;
-      top: 70px;
-      left: 80px;
+      top: 60px;
+      left: 0px;
       background-repeat: no-repeat;
       width: calc( 0.7 * 690px);
       height: calc(0.7 * 710px);
@@ -259,7 +259,7 @@ body {
       background-image: url("media/raposa-big.png");
       background-position-y: top;
       background-position-x: right;
-      top: 70px;
+      top: 60px;
       right: 0px;
       background-repeat: no-repeat;
       width: calc(0.7 * 690px);
